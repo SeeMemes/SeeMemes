@@ -1,7 +1,4 @@
 ## Александр Провоторов
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SeeMemes/count.svg" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white" />

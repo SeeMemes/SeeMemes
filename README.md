@@ -22,13 +22,13 @@ Backend-разработчик. Специализируюсь на разраб
 
 ## 📊 GitHub статистика
 
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=SeeMemes&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+<p>
+  <img width="120" src="https://github-readme-stats.vercel.app/api?username=SeeMemes&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://git.io/streak-stats">
-    <img width="420" src="https://streak-stats.demolab.com/?user=SeeMemes&theme=dark&hide_title=true" alt="GitHub Streak" />
+    <img height="120" src="https://streak-stats.demolab.com/?user=SeeMemes&theme=dark&hide_title=true" alt="GitHub Streak" />
   </a>
 </p>
 

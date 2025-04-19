@@ -22,13 +22,13 @@ Backend-разработчик. Специализируюсь на разраб
 
 ## 📊 GitHub статистика
 
-<p>
-  <img width="120" src="https://github-readme-stats.vercel.app/api?username=SeeMemes&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=SeeMemes&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img height="120" src="https://streak-stats.demolab.com/?user=SeeMemes&theme=dark&hide_title=true" alt="GitHub Streak" />
+    <img width="500" src="https://streak-stats.demolab.com/?user=SeeMemes&theme=dark&hide_title=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -37,3 +37,4 @@ Backend-разработчик. Специализируюсь на разраб
 ## 📫 Контакты
 
 - Telegram: [@a_matisse](https://t.me/a_matisse)
+- Почта: provotorov-02@mail.ru
